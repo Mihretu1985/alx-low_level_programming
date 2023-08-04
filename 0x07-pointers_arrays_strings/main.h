@@ -5,7 +5,7 @@ char *_memset(char *s, char b, unsigned int n);
 int _putchar(char c);
 char *_memcpy(char *dest, char *src, unsigned int n);
 char *_strchr(char *s, char c);
-unsigned_strspn(char *s, char *accept);
+i nt_strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystck, char *needle);
 void print_chessbord(char (*a)[8]);
